@@ -4,7 +4,7 @@ title: Daudix UFO's Site
 description: My personal website that uses Space theme
 ---
 
-- [💼️ Work](work)
+- [💼️ Works](works)
 
 - [🔗️ Links](links)
 
