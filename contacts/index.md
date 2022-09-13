@@ -6,9 +6,9 @@ description: You can (or can't) contact me using one of those contacts
 
 # Preferred contacts
 
-- [Email](mailto:ddaudix@gmail.com)
-
 - [Matrix](https://matrix.to/#/@daudix_ufo:matrix.org)
+
+- [Email](mailto:ddaudix@gmail.com)
 
 # Other contacts
 

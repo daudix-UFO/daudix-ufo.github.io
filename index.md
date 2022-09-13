@@ -4,6 +4,8 @@ title: Daudix UFO's Site
 description: My personal website that uses Space theme
 ---
 
+# Redisign is coming soon ;)
+
 - [💼️ Works](works)
 
 - [🔗️ Links](links)

@@ -9,27 +9,39 @@ description: The End Is Never…
 <pre>
 Useless info about Me
 
-- My name is David Lapshin (Давид Лапшин)
-- Born in 4 of October in Siberia
-- Love GNU/Linux and Open Source
-- Love to Photograph landscapes and nature
-- Love 60s/70s style (Retro if you want)
-- Love LEGO
-- Love to experement with new stuff
-- Love to sleep (Looong most of time)
-- Pretty lazy :)
+Who am I?
+
+I'm David Lapshin (Давид Лапшин)
+
+Where and when I born?
+
+I born in 4 of October of 20## in Siberia
+
+Things I love
+
+- GNU/Linux and Open Source
+- Photographing landscapes and nature
+- 60s/70s style (Retro if you want)
+- LEGO
+- Experementing with new stuff
+- Sleep (Looong most of time)
+- Being pretty lazy :D
 </pre>
 </details>
 
 <details>
     <summary>Sorry :(</summary>
 <pre>
-Useless info about My nickname
+My nickname
 
 Daudix UFO = My name in arabic (Daud) + IX + UFO
+
+Why UFO? are you one of those freaks?
+
+Because why not, this sounds interesting. No, I'm not one of those :P
 </pre>
 </details>
 
-###### Don't touch anything here ;)
+###### Don't touch anything here for now ;)
 
 [🡨 Back](https://daudix-ufo.github.io)
