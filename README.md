@@ -1,6 +1,6 @@
 # Daudix's UFO personal website
 
-### Website refactoring is coming ;)
+### 🚧 Website refactoring is WIP 🚧
 
 For now, here is a Platypus xD
 
