@@ -4,22 +4,20 @@ title: Icons
 description: Here my icons are presented
 ---
 
-# All this will be sorted, there are a lot of "Polished" icons, which means that I just changed a few things in them and not designed them from scratch.
-
 ### [Boutique](https://github.com/mijorus/boutique)
 ![Boutique](https://github.com/daudix-UFO/Source/raw/main/Icons/Boutique.svg)
 
-### [Breathing](https://github.com/SeaDve/Breathing)
+### [**Breathing](https://github.com/SeaDve/Breathing)
 ![Breathing](https://github.com/daudix-UFO/Source/raw/main/Icons/Breathing.svg)
 ![Breathing](https://github.com/daudix-UFO/Source/raw/main/Icons/BreathingAlt.svg)
 
-### [Countdown](https://github.com/lainsce/countdown)
+### [*Countdown](https://github.com/lainsce/countdown)
 ![Countdown](https://github.com/daudix-UFO/Source/raw/main/Icons/Countdown.svg)
 
-### [Done](https://github.com/edfloreshz/done)
+### [**Done](https://github.com/edfloreshz/done)
 ![Done](https://github.com/daudix-UFO/Source/raw/main/Icons/Done.svg)
 
-### [Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper)
+### [*Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper)
 ![Dynamic Wallpaper](https://github.com/daudix-UFO/Source/raw/main/Icons/DynamicWallpaper.svg)
 ![Dynamic Wallpaper Alt-](https://github.com/daudix-UFO/Source/raw/main/Icons/DynamicWallpaperAlt.svg)
 
@@ -42,7 +40,7 @@ description: Here my icons are presented
 ### [G4Music](https://gitlab.gnome.org/neithern/g4music)
 ![G4Music](https://github.com/daudix-UFO/Source/raw/main/Icons/G4music.svg)
 
-### [Login Manager Settings](https://github.com/realmazharhussain/gdm-settings)
+### [**Login Manager Settings](https://github.com/realmazharhussain/gdm-settings)
 ![GDM Settings](https://github.com/daudix-UFO/Source/raw/main/Icons/GDMsettings.svg)
 ![GDM Settings Screwdriver](https://github.com/daudix-UFO/Source/raw/main/Icons/GDMsettingsScrewdriver.svg)
 ![GDM Settings Wrench](https://github.com/daudix-UFO/Source/raw/main/Icons/GDMsettingsWrench.svg)
@@ -51,20 +49,20 @@ description: Here my icons are presented
 ![GDM Settings Alt Screwdriver](https://github.com/daudix-UFO/Source/raw/main/Icons/GDMsettingsAltScrewdriver.svg)
 ![GDM Settings Alt Wrench](https://github.com/daudix-UFO/Source/raw/main/Icons/GDMsettingsAltWrench.svg)
 
-### [Gradience](https://github.com/GradienceTeam/Gradience)
+### [**Gradience](https://github.com/GradienceTeam/Gradience)
 ![Gradience](https://raw.githubusercontent.com/daudix-UFO/Source/main/Icons/Gradience.svg)
 ![Gradience Nightly](https://raw.githubusercontent.com/daudix-UFO/Source/main/Icons/Gradience.Devel.svg)
 
 ### [Image Searcher (don't exist yet)](https://example.com)
 ![Image Searcher](https://github.com/daudix-UFO/Source/raw/main/Icons/ImageSearcher.svg)
 
-### [File Shredder](https://github.com/ADBeveridge/raider)
+### [*File Shredder](https://github.com/ADBeveridge/raider)
 ![File Shredder](https://github.com/daudix-UFO/Source/raw/main/Icons/Raider.svg)
 
 ### [Tagger](https://github.com/nlogozzo/NickvisionTagger)
 ![Tagger](https://raw.githubusercontent.com/daudix-UFO/Source/main/Icons/Tagger.svg)
 
-### [Endeavour](https://gitlab.gnome.org/World/Endeavour)
+### [*Endeavour](https://gitlab.gnome.org/World/Endeavour)
 ![Tagger](https://raw.githubusercontent.com/daudix-UFO/Source/main/Icons/Todo.svg)
 
 ### [Tube Converter](https://github.com/nlogozzo/NickvisionTubeConverter)
@@ -81,5 +79,9 @@ description: Here my icons are presented
 ![Tubefeeder Alt Neo](https://github.com/daudix-UFO/Source/raw/main/Icons/TubefeederAltNeo.svg)
 ![Tubefeeder Alt TV](https://github.com/daudix-UFO/Source/raw/main/Icons/TubefeederAltTV.svg)
 ![Tubefeeder Alt TV Neo](https://github.com/daudix-UFO/Source/raw/main/Icons/TubefeederAltTVNeo.svg)
+
+> Icons with * is polished icons
+
+> Icons with ** is icons recreated from scratch using similar idea`
 
 [🡨 Back](https://daudix-ufo.github.io/works)
