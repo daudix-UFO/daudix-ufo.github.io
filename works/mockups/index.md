@@ -8,4 +8,4 @@ description: Here my mockups are presented
 
 [GNOME Website](https://github.com/daudix-UFO/Source/tree/main/Mockups/GNOME%20Website)
 
-[🡨 Back](https://daudix-ufo.github.io/work)
+[🡨 Back](https://daudix-ufo.github.io/works)
