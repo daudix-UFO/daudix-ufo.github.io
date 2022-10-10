@@ -44,4 +44,4 @@ Because why not, this sounds interesting. No, I'm not one of those :P
 
 ###### Don't touch anything here for now ;)
 
-[🡨 Back](https://daudix-ufo.github.io)
+[🡨  Back](https://daudix-ufo.github.io)
