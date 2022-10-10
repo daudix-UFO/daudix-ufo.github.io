@@ -15,7 +15,7 @@ I'm David Lapshin (Давид Лапшин)
 
 Where and when I born?
 
-I born in 4 of October of 20## in Siberia
+I born in 4 of October of #### in Siberia
 
 Things I love
 
