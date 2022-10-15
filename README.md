@@ -4,4 +4,4 @@
 
 For now, here is a Platypus xD
 
-![platypus](https://upload.wikimedia.org/wikipedia/commons/b/bf/Platypus_by_Lewin.jpg)
+![rickroll_4k](https://user-images.githubusercontent.com/115899887/196006578-ff71ef68-da8f-4ce0-bc1f-b5db47a6bce2.jpg)
