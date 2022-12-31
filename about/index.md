@@ -36,9 +36,9 @@ My nickname
 
 Daudix UFO = My name in arabic (Daud) + IX + UFO
 
-Why UFO? are you one of those freaks?
+Why UFO?
 
-Because why not, this sounds interesting. No, I'm not one of those :P
+Because why not :P
 </pre>
 </details>
 
